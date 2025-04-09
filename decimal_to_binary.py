@@ -1,3 +1,4 @@
+# helper function decimal to binary
 
 def decimal_to_binary(n):
 
