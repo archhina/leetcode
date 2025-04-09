@@ -1,4 +1,5 @@
 # 3396. Minimum Number of Operations to Make Elements in Array Distinct
+
 from typing import List
 
 def minimumOperations(nums: List[int]) -> int:
